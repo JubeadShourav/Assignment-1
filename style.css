@@ -6,6 +6,10 @@
         display: flex;
     }
     
+    h1 {
+        color: aqua;
+    }
+    
     .maintain {
         width: 50%;
     }
