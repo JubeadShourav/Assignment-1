@@ -1,0 +1,16 @@
+    body {
+        margin: 0%;
+    }
+    
+    section {
+        display: flex;
+    }
+    
+    .maintain {
+        width: 50%;
+    }
+    
+    img {
+        height: 500px;
+        padding: 35px 10px 10px 70px;
+    }
