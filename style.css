@@ -29,7 +29,7 @@
         
         h4 {
             text-align: center;
-            color: rgb(33, 184, 45);
+            color: rgb(255, 208, 0);
             padding-top: 25px;
             font-size: 20px;
         }
@@ -139,9 +139,9 @@
         }
         
         #tag {
-            color: rgb(30, 158, 141);
+            color: rgb(31, 253, 1);
         }
         
         #define {
-            padding-bottom: 110px;
+            padding-bottom: 100px;
         }
