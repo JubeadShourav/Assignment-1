@@ -1,20 +1,45 @@
-    body {
-        margin: 0%;
-    }
-    
-    section {
-        display: flex;
-    }
-    
-    h1 {
-        color: aqua;
-    }
-    
-    .maintain {
-        width: 50%;
-    }
-    
-    img {
-        height: 500px;
-        padding: 35px 10px 10px 70px;
-    }
+        body {
+            margin: 0%;
+        }
+        
+        section {
+            display: flex;
+            padding-right: 5%;
+        }
+        
+        h1 {
+            color: rgb(0, 255, 106);
+            font-family: 'Tourney', cursive;
+            font-size: 60px;
+        }
+        
+        .button {
+            color: springgreen;
+            text-decoration: none;
+            background-image: linear-gradient(rgb(149, 219, 17), rgb(4, 128, 107));
+            padding: 12px 40px;
+            border-radius: 28px;
+            font-weight: 800;
+        }
+        
+        span {
+            font-family: 'Zen Tokyo Zoo', cursive;
+            color: rgb(94, 9, 51);
+        }
+        
+        .maintain {
+            width: 50%;
+            padding: 40px 30px 50px 60px;
+        }
+        
+        .border {}
+        
+        .background {
+            background-image: url(images/shapes/7.png);
+            background-repeat: no-repeat;
+        }
+        
+        img {
+            height: 500px;
+            padding: 35px 10px 10px 70px;
+        }
